@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Task table schema" source="com.glide.task">f7c4a7a565101010f87729c4a52689fc</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-21 04:53:51</sys_created_on>
+        <sys_id>c3bbfa8265d45010f87729c4a526895e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Orix Group" source="x_1234_orix_group">300bcc7580d81010f877a501fcc2c712</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-21 04:53:51</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

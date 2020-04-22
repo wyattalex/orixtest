@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Base Template" max_length="40" name="x_1234_orix_group_u_base_template" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="3" label="Orix Division" max_length="40" name="orix_division" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Orix Business Center Okinawa" sequence="10" value="Orix Business Center Okinawa"/>
+                <element inactive_on_update="false" label="Orix Corporate Sales" sequence="20" value="Orix Corporate Sales"/>
+                <element inactive_on_update="false" label="Orix Environment Energy" sequence="30" value="Orix Environment Energy"/>
+                <element inactive_on_update="false" label="Orix Group Audit" sequence="40" value="Orix Group Audit"/>
+                <element inactive_on_update="false" label="Orix Insurance Services" sequence="50" value="Orix Insurance Services"/>
+                <element inactive_on_update="false" label="Orix Investment" sequence="60" value="Orix Investment"/>
+                <element inactive_on_update="false" label="Orix Realestate" sequence="70" value="Orix Realestate"/>
+                <element inactive_on_update="false" label="Orix System" sequence="80" value="Orix System"/>
+            </choice>
+        </element>
+    </element>
+</database>
