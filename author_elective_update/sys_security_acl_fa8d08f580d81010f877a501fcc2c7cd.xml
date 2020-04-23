@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_1234_orix_group_u_base_template</description>
+        <name>x_1234_orix_group_u_base_template</name>
+        <operation display_value="read">read</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-21 04:53:50</sys_created_on>
+        <sys_id>fa8d08f580d81010f877a501fcc2c7cd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1234_orix_group_u_base_template</sys_name>
+        <sys_package display_value="Orix Group" source="x_1234_orix_group">300bcc7580d81010f877a501fcc2c712</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Orix Group">300bcc7580d81010f877a501fcc2c712</sys_scope>
+        <sys_update_name>sys_security_acl_fa8d08f580d81010f877a501fcc2c7cd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-21 04:53:50</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Orix Group">300bcc7580d81010f877a501fcc2c712</application>
+        <file_path/>
+        <instance_id>27f3276165101010f87729c4a52689af</instance_id>
+        <instance_name>instance-27f3276165101010f87729c4a52689af</instance_name>
+        <name>sys_security_acl_fa8d08f580d81010f877a501fcc2c7cd</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_1234_orix_group_u_base_template</description>
+        <name>x_1234_orix_group_u_base_template</name>
+        <operation display_value="read">read</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-21 04:53:50</sys_created_on>
+        <sys_id>fa8d08f580d81010f877a501fcc2c7cd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1234_orix_group_u_base_template</sys_name>
+        <sys_package display_value="Orix Group" source="x_1234_orix_group">300bcc7580d81010f877a501fcc2c712</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Orix Group">300bcc7580d81010f877a501fcc2c712</sys_scope>
+        <sys_update_name>sys_security_acl_fa8d08f580d81010f877a501fcc2c7cd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-21 04:53:50</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>]]></payload>
+        <payload_hash>1763460473</payload_hash>
+        <record_name>x_1234_orix_group_u_base_template</record_name>
+        <reverted_from/>
+        <source>352cd19a65d85010f87729c4a52689f4</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>current</state>
+        <sys_created_by>dev1</sys_created_by>
+        <sys_created_on>2020-04-22 23:54:16</sys_created_on>
+        <sys_id>bd2c159a65d85010f87729c4a526891b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171a45045000000001</sys_recorded_at>
+        <sys_updated_by>dev1</sys_updated_by>
+        <sys_updated_on>2020-04-22 23:54:16</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>3d2c159a45d850109df284a2fc44661b</update_guid>
+        <update_guid_history>3d2c159a45d850109df284a2fc44661b:0,b28d08f599d81010cd19c5a95d726edc:-603247985</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>dev1</sys_created_by>
+        <sys_created_on>2020-04-23 01:46:03</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>1c9d6fec63bc499987d55edb2be77da9</sys_id>
+        <sys_metadata>fa8d08f580d81010f877a501fcc2c7cd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1234_orix_group_u_base_template</sys_name>
+        <sys_package display_value="Orix Group" source="x_1234_orix_group">300bcc7580d81010f877a501fcc2c712</sys_package>
+        <sys_parent display_value="">368d08f580d81010f877a501fcc2c7eb</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Orix Group">300bcc7580d81010f877a501fcc2c712</sys_scope>
+        <sys_scope_delete display_value="">045dd534b6b641608057dde58ea0e0e4</sys_scope_delete>
+        <sys_update_name>sys_security_acl_fa8d08f580d81010f877a501fcc2c7cd</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_fa8d08f580d81010f877a501fcc2c7cd">bd2c159a65d85010f87729c4a526891b</sys_update_version>
+        <sys_updated_by>dev1</sys_updated_by>
+        <sys_updated_on>2020-04-23 01:46:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

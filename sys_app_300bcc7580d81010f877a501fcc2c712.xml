@@ -9,7 +9,7 @@
         <license_category>none</license_category>
         <license_model>none</license_model>
         <logo/>
-        <menu display_value="Orix Group">f00b40b580d81010f877a501fcc2c78e</menu>
+        <menu/>
         <name>Orix Group</name>
         <private>false</private>
         <restrict_table_access>false</restrict_table_access>
@@ -30,7 +30,7 @@
         <sys_updated_on>2020-04-22 12:08:34</sys_updated_on>
         <template/>
         <trackable>true</trackable>
-        <user_role display_value="x_1234_orix_group.user" name="x_1234_orix_group.user">7c0b40b580d81010f877a501fcc2c791</user_role>
+        <user_role/>
         <vendor/>
         <vendor_prefix/>
         <version>0.0.1</version>

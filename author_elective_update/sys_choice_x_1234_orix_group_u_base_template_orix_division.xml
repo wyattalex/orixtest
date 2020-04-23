@@ -1,138 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_choice action="INSERT_OR_UPDATE" field="orix_division" table="x_1234_orix_group_u_base_template" version="3">
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>orix_division</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Orix Business Center Okinawa</label>
-            <language>en</language>
-            <name>x_1234_orix_group_u_base_template</name>
-            <sequence>10</sequence>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-21 04:58:59</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>06bec03980d81010f877a501fcc2c7be</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-21 05:00:14</sys_updated_on>
-            <value>Orix Business Center Okinawa</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>orix_division</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Orix Corporate Sales</label>
-            <language>en</language>
-            <name>x_1234_orix_group_u_base_template</name>
-            <sequence>20</sequence>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-21 04:58:11</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>5a8e003980d81010f877a501fcc2c7f2</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-21 05:00:17</sys_updated_on>
-            <value>Orix Corporate Sales</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>orix_division</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Orix Environment Energy</label>
-            <language>en</language>
-            <name>x_1234_orix_group_u_base_template</name>
-            <sequence>30</sequence>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-21 04:58:44</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>6aae803980d81010f877a501fcc2c7e0</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-21 05:00:22</sys_updated_on>
-            <value>Orix Environment Energy</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>orix_division</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Orix Group Audit</label>
-            <language>en</language>
-            <name>x_1234_orix_group_u_base_template</name>
-            <sequence>40</sequence>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-21 04:59:25</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>60de043980d81010f877a501fcc2c74b</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-21 05:00:26</sys_updated_on>
-            <value>Orix Group Audit</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>orix_division</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Orix Insurance Services</label>
-            <language>en</language>
-            <name>x_1234_orix_group_u_base_template</name>
-            <sequence>50</sequence>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-21 04:57:21</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>dadd4cf580d81010f877a501fcc2c76d</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-21 05:00:29</sys_updated_on>
-            <value>Orix Insurance Services</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>orix_division</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Orix Investment</label>
-            <language>en</language>
-            <name>x_1234_orix_group_u_base_template</name>
-            <sequence>60</sequence>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-21 04:57:50</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>d57e003980d81010f877a501fcc2c7ee</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-21 05:00:32</sys_updated_on>
-            <value>Orix Investment</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>orix_division</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Orix Realestate</label>
-            <language>en</language>
-            <name>x_1234_orix_group_u_base_template</name>
-            <sequence>70</sequence>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-21 04:59:43</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>74ee043980d81010f877a501fcc2c750</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-21 05:00:36</sys_updated_on>
-            <value>Orix Realestate</value>
-        </sys_choice>
+    <sys_choice action="DELETE" field="orix_division" table="x_1234_orix_group_u_base_template" version="3">
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
             <element>orix_division</element>
@@ -158,7 +25,7 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2020-04-21 04:57:21</sys_created_on>
-            <sys_id>4fbbfa8265d45010f87729c4a52689a8</sys_id>
+            <sys_id>49b471de651c5010f87729c4a5268930</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>orix_division</sys_name>
             <sys_package display_value="Orix Group" source="x_1234_orix_group">300bcc7580d81010f877a501fcc2c712</sys_package>
@@ -169,4 +36,49 @@
             <sys_updated_on>2020-04-21 04:57:21</sys_updated_on>
         </sys_choice_set>
     </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Orix Group">300bcc7580d81010f877a501fcc2c712</application>
+        <file_path/>
+        <instance_id>27f3276165101010f87729c4a52689af</instance_id>
+        <instance_name>instance-27f3276165101010f87729c4a52689af</instance_name>
+        <name>sys_choice_x_1234_orix_group_u_base_template_orix_division</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="INSERT_OR_UPDATE" field="orix_division" table="x_1234_orix_group_u_base_template" version="3"><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>orix_division</element><hint/><inactive>false</inactive><label>Orix System</label><language>en</language><name>x_1234_orix_group_u_base_template</name><sequence>80</sequence><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-21 04:58:24</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>a59e4cf580d81010f877a501fcc2c78b</sys_id><sys_mod_count>1</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-21 05:00:39</sys_updated_on><value>Orix System</value></sys_choice><sys_choice_set action="INSERT_OR_UPDATE"><element>orix_division</element><name>x_1234_orix_group_u_base_template</name><sys_class_name>sys_choice_set</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-21 04:57:21</sys_created_on><sys_id>49b471de651c5010f87729c4a5268930</sys_id><sys_mod_count>0</sys_mod_count><sys_name>orix_division</sys_name><sys_package display_value="Orix Group" source="x_1234_orix_group">300bcc7580d81010f877a501fcc2c712</sys_package><sys_policy/><sys_scope display_value="Orix Group">300bcc7580d81010f877a501fcc2c712</sys_scope><sys_update_name>sys_choice_x_1234_orix_group_u_base_template_orix_division</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-21 04:57:21</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>-166639596</payload_hash>
+        <record_name>x_1234_orix_group_u_base_template.Orix Division</record_name>
+        <reverted_from/>
+        <source>1fb47d9e651c5010f87729c4a52689d0</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>dev1</sys_created_by>
+        <sys_created_on>2020-04-23 01:46:04</sys_created_on>
+        <sys_id>e3b57d12655c5010f87729c4a5268943</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171a4b69fb00000001</sys_recorded_at>
+        <sys_updated_by>dev1</sys_updated_by>
+        <sys_updated_on>2020-04-23 01:46:04</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>6fb57d12b85c50105415972d09551042</update_guid>
+        <update_guid_history>6fb57d12b85c50105415972d09551042:-166639596,6fb57d12d75c5010a9f34f5ddabc873f:322509730,6fb57d125f5c501047ce2e59fd29363c:-512325005,6fb57d12795c501079bb0f9990eaa039:-1792621565,6fb57d128d5c50108c27075c71a7b836:-236312756,6fb57d12fa5c501055d88d6975813533:-508540482,5fb57d129a5c5010a8f9247faff58a30:1175002779,2a1f84391dd8101032ca3c9164e867f0:2049807097,b91fc439e1d81010d16f22d5d1109726:-1273834290,fc1f843940d810105bb224615b28b0ac:1037551416,841f84399fd81010540e9e84f7ca28eb:904498925,170f843973d81010582f88ee6c5813e6:-2083920393,6a0fc039dbd810109a81e69725e115d1:851334506,110f843925d810105b73fc820bb85c8a:-2134760424,6c0f84398fd81010e4a9cfa39bc50884:-199932693,74ee443955d810108ff2d16d1137b87d:-233097543,68de043900d81010a0e2049674bbd44d:-1705984553,0ebec039ded810104abc33fc743508c0:-714498307,62ae80393ed81010860ef971a8db05e3:1249369533,bd9e4cf523d81010a2db541e67499a8d:1546505331,528e0039c8d810102ce31badf9cb55f5:-657374979,dd7e00395ad8101007a256fa7202fdf0:-1156239775,5e5e4cf5e8d81010bb6ba9084ead08f9:-1447443889</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-23 01:46:04</sys_created_on>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>49b471de651c5010f87729c4a5268930</sys_id>
+        <sys_metadata>49b471de651c5010f87729c4a5268930</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>orix_division</sys_name>
+        <sys_package display_value="Orix Group" source="x_1234_orix_group">300bcc7580d81010f877a501fcc2c712</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Orix Group">300bcc7580d81010f877a501fcc2c712</sys_scope>
+        <sys_scope_delete display_value="">045dd534b6b641608057dde58ea0e0e4</sys_scope_delete>
+        <sys_update_name>sys_choice_x_1234_orix_group_u_base_template_orix_division</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_1234_orix_group_u_base_template_orix_division">e3b57d12655c5010f87729c4a5268943</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-23 01:46:04</sys_updated_on>
+    </sys_metadata_delete>
 </record_update>

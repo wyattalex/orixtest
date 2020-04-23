@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category/>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>Orix Group</name>
+        <order/>
+        <roles>x_1234_orix_group.user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-21 04:42:47</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f00b40b580d81010f877a501fcc2c78e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Orix Group</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Orix Group" source="x_1234_orix_group">300bcc7580d81010f877a501fcc2c712</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Orix Group">300bcc7580d81010f877a501fcc2c712</sys_scope>
+        <sys_update_name>sys_app_application_f00b40b580d81010f877a501fcc2c78e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-21 04:42:47</sys_updated_on>
+        <title>Orix Group</title>
+        <view_name/>
+    </sys_app_application>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Orix Group">300bcc7580d81010f877a501fcc2c712</application>
+        <file_path/>
+        <instance_id>27f3276165101010f87729c4a52689af</instance_id>
+        <instance_name>instance-27f3276165101010f87729c4a52689af</instance_name>
+        <name>sys_app_application_f00b40b580d81010f877a501fcc2c78e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>Orix Group</name>
+        <order/>
+        <roles>x_1234_orix_group.user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-21 04:42:47</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f00b40b580d81010f877a501fcc2c78e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Orix Group</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Orix Group" source="x_1234_orix_group">300bcc7580d81010f877a501fcc2c712</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Orix Group">300bcc7580d81010f877a501fcc2c712</sys_scope>
+        <sys_update_name>sys_app_application_f00b40b580d81010f877a501fcc2c78e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-21 04:42:47</sys_updated_on>
+        <title>Orix Group</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>]]></payload>
+        <payload_hash>-1789189295</payload_hash>
+        <record_name>Orix Group</record_name>
+        <reverted_from/>
+        <source>352cd19a65d85010f87729c4a52689f4</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>current</state>
+        <sys_created_by>dev1</sys_created_by>
+        <sys_created_on>2020-04-22 23:54:16</sys_created_on>
+        <sys_id>f52c159a65d85010f87729c4a526890b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171a450446a0000001</sys_recorded_at>
+        <sys_updated_by>dev1</sys_updated_by>
+        <sys_updated_on>2020-04-22 23:54:16</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>752c159a33d8501089b458a9bfef500b</update_guid>
+        <update_guid_history>752c159a33d8501089b458a9bfef500b:0,bc0b40b580d810102bb4cbc076d7ed9e:-1961905265,780b40b5fed81010d441d879ca064690:-1237373326</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Orix Group">e095b912655c5010f87729c4a52689d3</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>dev1</sys_created_by>
+        <sys_created_on>2020-04-23 01:45:19</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>1b8f78f7d1f7451e89f8c48758834804</sys_id>
+        <sys_metadata>f00b40b580d81010f877a501fcc2c78e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Orix Group</sys_name>
+        <sys_package display_value="Orix Group" source="x_1234_orix_group">300bcc7580d81010f877a501fcc2c712</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Orix Group">300bcc7580d81010f877a501fcc2c712</sys_scope>
+        <sys_scope_delete display_value="">045dd534b6b641608057dde58ea0e0e4</sys_scope_delete>
+        <sys_update_name>sys_app_application_f00b40b580d81010f877a501fcc2c78e</sys_update_name>
+        <sys_update_version display_value="sys_app_application_f00b40b580d81010f877a501fcc2c78e">f52c159a65d85010f87729c4a526890b</sys_update_version>
+        <sys_updated_by>dev1</sys_updated_by>
+        <sys_updated_on>2020-04-23 01:45:19</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

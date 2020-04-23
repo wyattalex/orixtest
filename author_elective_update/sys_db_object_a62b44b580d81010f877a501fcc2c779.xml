@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>Base Template</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_1234_orix_group_u_base_template</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class display_value="Task" name="task">37c4a7a565101010f87729c4a52689fd</super_class>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-21 04:53:50</sys_created_on>
+        <sys_id>a62b44b580d81010f877a501fcc2c779</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Base Template</sys_name>
+        <sys_package display_value="Orix Group" source="x_1234_orix_group">300bcc7580d81010f877a501fcc2c712</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Orix Group">300bcc7580d81010f877a501fcc2c712</sys_scope>
+        <sys_update_name>sys_db_object_a62b44b580d81010f877a501fcc2c779</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-21 04:53:50</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role display_value="x_1234_orix_group.user" name="x_1234_orix_group.user">7c0b40b580d81010f877a501fcc2c791</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Orix Group">300bcc7580d81010f877a501fcc2c712</application>
+        <file_path/>
+        <instance_id>27f3276165101010f87729c4a52689af</instance_id>
+        <instance_name>instance-27f3276165101010f87729c4a52689af</instance_name>
+        <name>sys_db_object_a62b44b580d81010f877a501fcc2c779</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>Base Template</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_1234_orix_group_u_base_template</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class display_value="Task" name="task">37c4a7a565101010f87729c4a52689fd</super_class>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-21 04:53:50</sys_created_on>
+        <sys_id>a62b44b580d81010f877a501fcc2c779</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Base Template</sys_name>
+        <sys_package display_value="Orix Group" source="x_1234_orix_group">300bcc7580d81010f877a501fcc2c712</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Orix Group">300bcc7580d81010f877a501fcc2c712</sys_scope>
+        <sys_update_name>sys_db_object_a62b44b580d81010f877a501fcc2c779</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-21 04:53:50</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role display_value="x_1234_orix_group.user" name="x_1234_orix_group.user">7c0b40b580d81010f877a501fcc2c791</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+</record_update>]]></payload>
+        <payload_hash>410770127</payload_hash>
+        <record_name>Base Template</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>current</state>
+        <sys_created_by>dev1</sys_created_by>
+        <sys_created_on>2020-04-22 23:54:15</sys_created_on>
+        <sys_id>ed2cd19a65d85010f87729c4a52689cd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171a45042dc0000001</sys_recorded_at>
+        <sys_updated_by>dev1</sys_updated_by>
+        <sys_updated_on>2020-04-22 23:54:15</sys_updated_on>
+        <type>Table</type>
+        <update_guid>ad2cd19a08d85010aa72b954959308cd</update_guid>
+        <update_guid_history>cf8d48f5a2d81010dda313621a778a10:-308922460</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>dev1</sys_created_by>
+        <sys_created_on>2020-04-23 01:46:03</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>42a71da1656b407c8e374c79eb715110</sys_id>
+        <sys_metadata>a62b44b580d81010f877a501fcc2c779</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Base Template</sys_name>
+        <sys_package display_value="Orix Group" source="x_1234_orix_group">300bcc7580d81010f877a501fcc2c712</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Orix Group">300bcc7580d81010f877a501fcc2c712</sys_scope>
+        <sys_scope_delete display_value="">045dd534b6b641608057dde58ea0e0e4</sys_scope_delete>
+        <sys_update_name>sys_db_object_a62b44b580d81010f877a501fcc2c779</sys_update_name>
+        <sys_update_version display_value="sys_db_object_a62b44b580d81010f877a501fcc2c779">ed2cd19a65d85010f87729c4a52689cd</sys_update_version>
+        <sys_updated_by>dev1</sys_updated_by>
+        <sys_updated_on>2020-04-23 01:46:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
